@@ -1,0 +1,172 @@
+	Article ID	Weight	Quantity	Owner	Grade	Finish	Thickness	Width	Description	Height	Length	Coating
+0	0/source1	6341	1.0	source1	C100S	ungebeizt, nicht geglüht	2.23	1075.0	Sollmasse (Gewicht) unterschritten	-	-	-
+1	1/source1	7413	1.0	source1	C100S	ungebeizt, nicht geglüht	2.23	1074.0	Sollmasse (Gewicht) unterschritten	-	-	-
+2	2/source1	7251	1.0	source1	C100S	ungebeizt, nicht geglüht	2.23	1074.0	Sollmasse (Gewicht) unterschritten	-	-	-
+3	3/source1	6729	1.0	source1	C100S	ungebeizt, nicht geglüht	2.23	1074.0	Sollmasse (Gewicht) unterschritten	-	-	-
+4	4/source1	4163	1.0	source1	C100S	ungebeizt, nicht geglüht	2.23	1079.0	Sollmasse (Gewicht) unterschritten	-	-	-
+5	5/source1	6086	1.0	source1	C100S	ungebeizt, nicht geglüht	2.24	1074.0	Sollmasse (Gewicht) unterschritten	-	-	-
+6	6/source1	5235	1.0	source1	C100S	ungebeizt, nicht geglüht	2.24	1074.0	Kantenfehler - FS-Kantenrisse	-	-	-
+7	7/source1	7019	1.0	source1	C100S	ungebeizt, nicht geglüht	2.24	1074.0	Sollmasse (Gewicht) unterschritten	-	-	-
+8	8/source1	6760	1.0	source1	C100S	gebeizt und geglüht	2.25	1032.0	Sollmasse (Gewicht) unterschritten	-	-	-
+9	9/source1	14490	1.0	source1	C100S	gebeizt und geglüht	2.251	1031.5	Längs- oder Querrisse	-	-	-
+10	10/source1	9120	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+11	11/source1	7138	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+12	12/source1	6615	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+13	13/source1	7208	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1038.0	Sollmasse (Gewicht) unterschritten	-	-	-
+14	14/source1	4714	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1038.0	Sollmasse (Gewicht) unterschritten	-	-	-
+15	15/source1	7855	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Kantenfehler - FS-Kantenrisse	-	-	-
+16	16/source1	5452	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+17	17/source1	6679	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+18	18/source1	9968	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+19	19/source1	4853	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1039.0	Sollmasse (Gewicht) unterschritten	-	-	-
+20	20/source1	9639	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1039.0	Sollmasse (Gewicht) unterschritten	-	-	-
+21	21/source1	4578	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+22	22/source1	9889	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+23	23/source1	9916	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1038.0	Sollmasse (Gewicht) unterschritten	-	-	-
+24	24/source1	7320	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1038.0	Sollmasse (Gewicht) unterschritten	-	-	-
+25	25/source1	5433	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1036.0	Sollmasse (Gewicht) unterschritten	-	-	-
+26	26/source1	4980	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+27	27/source1	5664	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+28	28/source1	6762	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+29	29/source1	8920	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1038.0	Sollmasse (Gewicht) unterschritten	-	-	-
+30	30/source1	3602	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1038.0	Sollmasse (Gewicht) unterschritten	-	-	-
+31	31/source1	8092	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+32	32/source1	9800	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+33	33/source1	6050	1.0	source1	C100S	ungebeizt, nicht geglüht	2.28	1037.0	Sollmasse (Gewicht) unterschritten	-	-	-
+0	2304/52068	2222	48.0	source2	DX51D	Ma-C	-	1350.0	-	1.5	2850.0	+Z140
+1	2304/52075	2222	48.0	source2	DX51D	Ma-C	-	1350.0	-	1.5	2850.0	+Z140
+2	2304/52082	2222	48.0	source2	DX51D	Ma-C	-	1350.0	-	1.5	2850.0	+Z140
+3	2304/52099	2222	48.0	source2	DX51D	Ma-C	-	1350.0	-	1.5	2850.0	+Z140
+4	2304/52105	2222	48.0	source2	DX51D	Ma-C	-	1350.0	-	1.5	2850.0	+Z140
+5	2304/52112	2222	48.0	source2	DX51D	Ma-C	-	1350.0	-	1.5	2850.0	+Z140
+6	2304/52129	1108	24.0	source2	DX51D	Ma-C	-	1350.0	-	1.5	2850.0	+Z140
+7	2304/52143	2222	48.0	source2	DX51D	Ma-C	-	1350.0	-	1.5	2850.0	+Z140
+8	2304/52150	2182	48.0	source2	DX51D	Ma-C	-	1350.0	-	1.5	2850.0	+Z140
+9	2304/52266	2184	48.0	source2	DX51D	Ma-C	-	1350.0	-	1.5	2850.0	+Z140
+10	2304/52136	2222	48.0	source2	DX51D	Ma-C	-	1350.0	-	1.5	2850.0	+Z140
+2	2306/63853	23560	1.0	source2	DX51D	-	-	1250.0	-	1.0	-	+AZ150
+3	2306/63846	23660	1.0	source2	DX51D	-	-	1250.0	-	1.0	-	+AZ150
+4	2307/50096	20440	1.0	source2	DX51D	-	-	1250.0	-	1.0	-	+AZ150
+5	2307/50089	20520	1.0	source2	DX51D	-	-	1250.0	-	1.0	-	+AZ150
+6	2306/63860	22620	1.0	source2	DX51D	-	-	1250.0	-	1.0	-	+AZ150
+7	2307/50072	20420	1.0	source2	DX51D	-	-	1250.0	-	1.0	-	+AZ150
+8	2306/63877	13860	1.0	source2	DX51D	-	-	1250.0	-	1.0	-	+AZ150
+9	2307/50102	19750	1.0	source2	DX51D	-	-	1250.0	-	1.0	-	+AZ150
+25	2210/64638	11830	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+26	2208/24752	21870	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+27	2110/51990	18160	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+28	2201/26092	19195	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+29	2207/51058	21700	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+30	2207/51065	21920	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+31	2203/73939	20415	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+32	2109/60576	22070	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+33	2208/24769	21600	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+34	2201/8128	21600	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+35	2207/51041	21800	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+36	2203/73892	20655	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+37	2110/52027	20985	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+38	2203/73915	20470	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+39	2110/52010	20880	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+40	2203/73922	20560	1.0	source2	S235JR	-	-	1250.0	-	1.75	-	geolied
+0	2004/25542	1730	1.0	source2	DC01	geolied	-	150.0	-	2.5	-	licht
+1	2206/27940	1700	1.0	source2	S235JR	-	-	1465.0	-	2.5	-	geolied
+2	2302/52583	2220	1.0	source2	DX51D	Ma-C	-	1250.0	-	0.57	-	+Z100
+3	2207/53700	1450	1.0	source2	DX51D	Ma-C	-	1500.0	-	0.75	-	+Z140
+4	2207/40892	1700	1.0	source2	DX51D	Ma-C	-	1250.0	-	0.4	-	+Z275
+5	2208/32436	13800	1.0	source2	DX51D	Ma-C	-	1250.0	-	0.5	-	+Z275
+6	2204/31998	25100	1.0	source2	S500MC	Oiled	-	150.0	-	9.99	-	-
+7	2202/55501	10540	1.0	source2	S550	MAC	-	107.0	-	2.0	-	GD+ZM175
+8	2303/42482	22080	1.0	source2	S235	ongeb/	-	150.0	-	5.0	-	-
+9	2310/46181	2550	1.0	source2	DX51D+Z275	-	-	125.0	-	0.75	-	-
+10	2305/18290	1620	1.0	source2	DZ51D+Z275	-	-	125.0	-	1.25	-	-
+3	2401/22326	1814	25.0	source2	DD11	-	-	1250.0	-	2.0	3500.0	geolied
+4	2310/16948	2591	37.0	source2	DX51D	Ma-C	-	775.0	-	4.0	2850.0	+Z140
+5	2310/12230	2415	75.0	source2	DX51D	Ma-C	-	1500.0	-	0.88	3000.0	+Z275
+6	2401/28601	1022	32.0	source2	S280GD	Ma-C	-	1250.0	-	1.5	2115.0	+Z275
+7	2310/39305	2022	27.0	source2	S320GD	Ma-C	-	1250.0	-	3.0	2500.0	+Z275
+8	2311/46386	1008	13.0	source2	S320GD	Ma-C	-	1250.0	-	3.0	2500.0	+Z275
+9	2312/15389	2018	27.0	source2	S320GD	Ma-C	-	1250.0	-	3.0	2500.0	+Z275
+10	2311/34840	666	9.0	source2	S350GD	Ma-O	-	1170.0	-	2.5	3050.0	+Z100
+11	2401/15304	1118	10.0	source2	S350GD	Ma-C	-	1500.0	-	3.0	3000.0	+Z275
+28	2401/36811	260	1.0	source2	DC01	geolied	-	96.0	-	1.0	-	licht
+29	2311/59379	525	1.0	source2	DD11	-	-	122.0	-	1.5	-	geolied
+30	2401/57274	248	1.0	source2	DD11	-	-	92.0	-	2.0	-	geolied
+31	2305/14209	450	1.0	source2	DD11	-	-	106.0	-	2.5	-	geolied
+32	2312/1924	640	1.0	source2	DX51D	Ma-C	-	120.0	-	0.6	-	+Z140
+33	2312/2013	510	1.0	source2	DX51D	Ma-C	-	70.0	-	0.6	-	+Z140
+34	2311/14200	320	1.0	source2	DX51D	Ma-C	-	80.0	-	3.0	-	+Z275
+35	2401/39744	1635	1.0	source2	DX51D	Ma-C	-	114.0	-	4.0	-	+Z275
+36	2310/14357	605	1.0	source2	DX51D	Ma-C	-	165.0	-	4.0	-	+Z275
+37	2310/51079	770	2.0	source2	S250GD	Ma-C	-	137.0	-	0.4	-	+Z275
+38	2308/9008	405	6.0	source2	S320GD	Ma-C	-	48.0	-	3.0	-	+Z275
+39	2308/9015	410	6.0	source2	S320GD	Ma-C	-	48.0	-	3.0	-	+Z275
+40	2306/52468	550	3.0	source2	S250GD	Ma-C	-	182.2	-	1.0	-	+ZM310
+41	2306/52475	550	3.0	source2	S250GD	Ma-C	-	182.2	-	1.0	-	+ZM310
+42	2306/52482	190	1.0	source2	S250GD	Ma-C	-	182.2	-	1.0	-	+ZM310
+43	2303/64064	3375	2.0	source2	S350GD	Ma-C	-	165.0	-	3.0	-	+ZM310
+44	2303/64071	3410	2.0	source2	S350GD	Ma-C	-	165.0	-	3.0	-	+ZM310
+45	2303/64088	3390	2.0	source2	S350GD	Ma-C	-	165.0	-	3.0	-	+ZM310
+46	2302/40764	4390	1.0	source2	S350GD	Ma-C	-	291.0	-	3.5	-	+ZM310
+47	2302/40849	4430	1.0	source2	S350GD	Ma-C	-	291.0	-	3.5	-	+ZM310
+48	2307/46143	4680	1.0	source2	S350GD	Ma-C	-	291.0	-	3.5	-	+ZM310
+49	2302/11771	1330	1.0	source2	S350GD	Ma-C	-	291.0	-	3.5	-	+ZM310
+50	2303/29834	980	2.0	source2	S350GD	Ma-C	-	291.0	-	3.5	-	+ZM310
+51	2303/29858	980	2.0	source2	S350GD	Ma-C	-	291.0	-	3.5	-	+ZM310
+52	2303/29865	500	1.0	source2	S350GD	Ma-C	-	291.0	-	3.5	-	+ZM310
+53	2311/42746	3560	1.0	source2	S350GD	Ma-C	-	291.0	-	3.5	-	+ZM310
+0	2231027/11006841	12530	1.0	source3	HDC	MB	-	0.75	-	-	1270.0	GXE
+1	2253917/11006841	12770	1.0	source3	HDC	MB	-	0.75	-	-	1270.0	GXE
+2	2141400/11006843	18620	1.0	source3	HDC	MB	-	0.75	-	-	1010.0	GXES
+3	2176549/11006843	18100	1.0	source3	HDC	MB	-	0.75	-	-	1010.0	GXES
+4	2144362/11006915	11089	1.0	source3	HDC	MB	-	1.0	-	-	1000.0	HX300LAD+Z
+5	2193183/11007024	11890	1.0	source3	HRP	HE360D	-	2.2	-	-	1200.0	HE360D
+6	2376477/11007031	18400	1.0	source3	CR	A	-	1.47	-	-	1390.0	X-ES
+7	2389800/11007136	11370	1.0	source3	HDC	MB	-	2.0	-	-	1295.0	D59V
+8	2153593/11007240	13040	1.0	source3	HDC	MB	-	1.0	-	-	1432.0	HX380LAD+Z
+9	2112436/11007347	11520	1.0	source3	CR	A	-	1.5	-	-	1487.0	XE320D
+10	2112439/11007347	11700	1.0	source3	CR	A	-	1.5	-	-	1487.0	XE320D
+11	2165168/11007462	11656	1.0	source3	HDC	MB	-	0.87	-	-	1445.0	26G
+12	2121522/11007896	11280	1.0	source3	CR	A	-	0.65	-	-	1437.0	X-ES
+13	2165165/11007912	7012	1.0	source3	HDC	MB	-	0.65	-	-	1080.0	XCV
+14	2165166/11007912	7012	1.0	source3	HDC	MB	-	0.65	-	-	1080.0	XCV
+15	2165167/11007912	6792	1.0	source3	HDC	MB	-	0.65	-	-	1080.0	XCV
+16	2306268/11007912	6812	1.0	source3	HDC	MB	-	0.65	-	-	1080.0	XCV
+17	2328817/11007912	6780	1.0	source3	HDC	MB	-	0.65	-	-	1080.0	XCV
+18	2330687/11007912	6792	1.0	source3	HDC	MB	-	0.65	-	-	1080.0	XCV
+19	2197778/11010359	12300	1.0	source3	CR	A	-	1.5	-	-	1410.0	XE360D
+20	2160789/11011779	11780	1.0	source3	CR	A	-	0.7	-	-	1355.0	CR3
+21	2231858/11011808	12402	1.0	source3	HDC	MB	-	1.5	-	-	1330.0	CR3-GI
+22	2135022/11015501	13240	1.0	source3	HRP	HR2	-	2.0	-	-	1360.0	HR2
+23	2231511/11015537	14779	1.0	source3	HDC	MB	-	0.85	-	-	1445.0	26G
+24	2134770/11016868	12230	1.0	source3	HDC	MB	-	1.5	-	-	1290.0	34G
+25	2177728/11018437	14474	1.0	source3	HDC	MB	-	0.57	-	-	1445.0	DX54D+Z
+26	2141151/11020045	10740	1.0	source3	CR	A	-	1.25	-	-	1088.0	E40
+27	1810123/13012123	1320	1.0	source3	DRP	H500	-	1.8	-	-	420.0	YMAGINE
+28	1810363/13012123	1320	1.0	source3	DRP	H500	-	1.8	-	-	420.0	YMAGINE
+29	1810566/13012123	1320	1.0	source3	DRP	H500	-	1.8	-	-	420.0	YMAGINE
+30	1810811/13012123	1320	1.0	source3	DRP	H500	-	1.8	-	-	420.0	YMAGINE
+31	1810917/13012123	1320	1.0	source3	DRP	H500	-	1.8	-	-	420.0	YMAGINE
+32	1811070/13012123	1320	1.0	source3	DRP	H500	-	1.8	-	-	420.0	YMAGINE
+33	1811102/13012123	1019	1.0	source3	DRP	H500	-	1.8	-	-	420.0	YMAGINE
+34	2220957/13013020	0	1.0	source3	CR	A	-	1.0	-	-	75.0	XES
+35	2100653/13015079	0	1.0	source3	HRP	HC	-	2.5	-	-	280.0	HC
+36	2100660/13015079	0	1.0	source3	HRP	HC	-	2.5	-	-	280.0	HC
+37	2372614/13015114	0	1.0	source3	HRP	HES	-	2.0	-	-	165.0	HES
+38	2266008/13015118	0	1.0	source3	HRP	HES	-	2.0	-	-	193.0	HES
+39	585442/13015500	745	1.0	source3	INA_DRP	YMAGINE	-	2.5	-	-	51.0	YMAGINE
+40	1905346/13030650	0	1.0	source3	HDC	MB	-	-	-	-	-	GXES
+41	2249852/13031256	0	1.0	source3	HRP	HE320DR	-	1.5	-	-	300.0	HE320DR
+42	1967587/20000008	1075	1.0	source3	2ND	CR	-	-	-	-	-	CR
+43	1967588/20000008	1080	1.0	source3	2ND	CR	-	-	-	-	-	CR
+44	1967662/20000008	1060	1.0	source3	2ND	CR	-	-	-	-	-	CR
+45	2141622/20000036	2025	1.0	source3	2ND	HDC	-	-	-	-	-	HDC
+46	2141631/20000036	2035	1.0	source3	2ND	HDC	-	-	-	-	-	HDC
+47	2141644/20000036	2040	1.0	source3	2ND	HDC	-	-	-	-	-	HDC
+48	2089220/36000012	10980	1.0	source3	HDC	MB	-	0.75	-	-	1855.0	XFV
+49	2095720/36000105	19830	1.0	source3	HDC	MB	-	0.95	-	-	940.0	XSV
+50	2284239/36000107	7870	1.0	source3	CR	A	-	0.65	-	-	1437.0	X-ES
+51	2292729/36000107	7960	1.0	source3	CR	A	-	0.65	-	-	1437.0	X-ES
+52	2235139/36000114	18920	1.0	source3	CR	A	-	1.15	-	-	1317.0	E28
+53	2237593/36000114	18560	1.0	source3	CR	A	-	1.15	-	-	1317.0	E28
+54	2118606/36000274	9500	1.0	source3	HRP	LS	-	1.8	-	-	815.0	YMPRESS
+55	2221582/36000697	14880	1.0	source3	HDC	MB	-	0.75	-	-	1725.0	CR300LA-GI
