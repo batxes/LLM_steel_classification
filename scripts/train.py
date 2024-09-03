@@ -53,7 +53,6 @@ def prepare_data_for_training(df, tokenizer):
 
 
 def compute_metrics(pred):
-
     labels = pred.label_ids
     preds = pred.predictions.argmax(-1)
     precision, recall, f1, _ = precision_recall_fscore_support(labels, preds, average='macro')
@@ -68,44 +67,41 @@ def compute_metrics(pred):
 def train(model, train_dataloader, val_dataloader, test_dataloader):
 
     training_args = TrainingArguments(
-    # The output directory where the model predictions and checkpoints will be written
-    output_dir='./Model_checkpoints', 
-    do_train=True,
-    do_eval=True,
-    #  The number of epochs, defaults to 3.0 
-    num_train_epochs=3,              
-    per_device_train_batch_size=16,  
-    per_device_eval_batch_size=32,
-    # Number of steps used for a linear warmup
-    warmup_steps=100,                
-    weight_decay=0.01,
-    logging_strategy='steps',
-   # TensorBoard log directory                 
-    logging_dir='./multi-class-logs',            
-    logging_steps=50,
-    evaluation_strategy="steps",
-    eval_steps=50,
-    save_strategy="steps", 
-    fp16=True,
-    load_best_model_at_end=True
+        # The output directory where the model predictions and checkpoints will be written
+        output_dir='./Model_checkpoints', 
+        do_train=True,
+        do_eval=True,
+        #  The number of epochs, defaults to 3.0 
+        num_train_epochs=3,              
+        per_device_train_batch_size=16,  
+        per_device_eval_batch_size=32,
+        # Number of steps used for a linear warmup
+        warmup_steps=100,                
+        weight_decay=0.01,
+        logging_strategy='steps',
+        # TensorBoard log directory                 
+        logging_dir='./multi-class-logs',            
+        logging_steps=50,
+        evaluation_strategy="steps",
+        eval_steps=50,
+        save_strategy="steps", 
+        fp16=True,
+        load_best_model_at_end=True
     )
 
     trainer = Trainer(
-    # the pre-trained model that will be fine-tuned 
-    model=model,
-     # training arguments that we defined above                        
-    args=training_args,                 
-    train_dataset=train_dataloader,         
-    eval_dataset=val_dataloader,            
-    compute_metrics= compute_metrics
+        # the pre-trained model that will be fine-tuned 
+        model=model,
+        # training arguments that we defined above                        
+        args=training_args,                 
+        train_dataset=train_dataloader,         
+        eval_dataset=val_dataloader,            
+        compute_metrics= compute_metrics
     )
     trainer.train()
-
     q=[trainer.evaluate(eval_dataset=df_org) for df_org in [train_dataloader, val_dataloader, test_dataloader]]
-
-    check = pd.DataFrame(q, index=["train","val","test"]).iloc[:,:5]
-
-    print (check)
+    evaluation = pd.DataFrame(q, index=["train","val","test"]).iloc[:,:5]
+    print (evaluation)
     return trainer
 
 def save_model(trainer, tokenizer):
