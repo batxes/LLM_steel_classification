@@ -39,8 +39,13 @@ resources/union.tsv
 ## Report summarizing the approach and results.
 
 I first created a jupyter notebook and started exploring the data. I saw that the 3 files are different and contain different variables. I also saw that one of the excel files contains 2 tabs and multiple tables in each tab. I thought on going through the 3 files and saving them into dataframes, and if the file contained tabs, going through each tab. If one of the dataframes contained lines of NaNs, indicated that another table was starting, so I also made sure to save those as independent dataframes.
+
+
 Then, I tried to save as many variables as possible, and I also extracted different dimensions if they were embedded in the description, using regex.
+
+
 Finally I had to do some hardcoded cleaning, like removing out-of-context text from the quantity column.
+
 
 I then prepared the data for training. I concatenated all the dataframes into one. Put all variables as categories and their values as text. Then I split the data into train, validation and test (60, 20, 20). I used the transformers library to work with pre-trained BERT models. I also applied a step to evaluate the model. Then I save the model. In the test script I hard coded a couple of steel properties to predict the category.
 
@@ -61,20 +66,21 @@ and the prediction result:
 ## Plan for the future expansion of the algorithm and the potential most difficult challenges.
 
 There could be many improvements. First, the EDA needs to be refined. I would remove automatically all the lines containing NaNs in the "Article ID" for example. I would also check for columns that contain strings and not numbers in variables that need to be numbers and remove. The code should be modified so it accepts one file at a time, so it is scalable. Right now it takes all 3 together.
+
 The final variables that are used to concatenate all dataframes should also be standardized. Maybe, the variables that do not appear in some data files of different providers could be appended to an auxiliary column. LIke Provider 1 contains "description", which provider 2 and 3 do not. It could also be parsed to try to find features that could be applied to other variables.
+
 The tokenization could also be improved. RIght now, the numbers are converted into strings, which is not ideal.
+
 I missed the final step which would be to recreate the unified dataset. For that, I would fed the model with each of the features/variables of each individual steel product and append to a new table, in the category that the model predicts. Ideally, this would have to be done only for the variables that are not automatically set in a previous step. For example, if we get a product with a column called "important" and below we have values like "GXES", the model would predict these values to belong to the coating column. Or if we get column names in Chinese, only knowing the value of these columns, the model should be able to create a database with the new predicted columns.
 
 
 ## Tools/tech used:
 
 <p align="center">
-    <img src="icons/MLFlow.png" width="100">
-    <img src="icons/Docker.png" width="100">
-    <img src="icons/prometheus.png" width="50">
-    <img src="icons/grafana.png" width="100">
-    <img src="icons/flask.png" width="40">
-    <img src="icons/prefect.png" width="30">
+    <img src="icons/pytorcha.webp" width="100">
+    <img src="icons/transformers.svg" width="100">
+    <img src="icons/scikit.png" width="50">
+    <img src="icons/pandas.webp" width="100">
 </p>
 
 
