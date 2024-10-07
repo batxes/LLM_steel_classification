@@ -1,5 +1,5 @@
 # Steel Classification(LLM project)
-![Drought](https://github.com/batxes/LLM_steel_classification/blob/main/steel_image.webp)
+![Steel](https://github.com/batxes/LLM_steel_classification/blob/main/steel_image.webp)
 
 This is a LLM project that is able to classify types and features of steel from plain text. 
 The project is an assignment that a company proposed for a Data Scientist position.
