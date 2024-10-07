@@ -46,11 +46,11 @@ I then prepared the data for training. I concatenated all the dataframes into on
 
 These are the metrics of the evaluation of the model (not deterministic):
 
-       | eval_loss |  eval_Accuracy |   eval_F1 |  eval_Precision |  eval_Recall | 
+|        | eval_loss |  eval_Accuracy |   eval_F1 |  eval_Precision |  eval_Recall | 
 ----------------------------------------------------------------------------------
-train  |  0.679016 |       0.734959 |  0.714131 |        0.883501 |     0.734953 | 
-val    |  0.741721 |       0.712895 |  0.681331 |        0.786165 |     0.714636 | 
-test   |  0.738569 |       0.722628 |  0.685436 |        0.766949 |     0.720938 | 
+| train  |  0.679016 |       0.734959 |  0.714131 |        0.883501 |     0.734953 | 
+| val    |  0.741721 |       0.712895 |  0.681331 |        0.786165 |     0.714636 | 
+| test   |  0.738569 |       0.722628 |  0.685436 |        0.766949 |     0.720938 | 
 
 and the prediction result:
 ungebeizt, nicht geglüht -> [{'label': 'Finish', 'score': 0.9299754500389099}]
