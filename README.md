@@ -77,10 +77,10 @@ I missed the final step which would be to recreate the unified dataset. For that
 ## Tools/tech used:
 
 <p align="center">
-    <img src="icons/pytorch.webp" width="100">
+    <img src="icons/pytorch.webp" width="200">
     <img src="icons/transformers.svg" width="200">
-    <img src="icons/scikit.png" width="100">
-    <img src="icons/pandas.webp" width="200">
+    <img src="icons/scikit.png" width="150">
+    <img src="icons/pandas.webp" width="150">
 </p>
 
 
