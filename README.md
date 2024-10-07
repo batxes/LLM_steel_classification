@@ -10,13 +10,15 @@ A company works connecting steel providers and buyers. The steel providers have 
 
 This project is able to read these excell files, read each line containing different steel products and thei features, a classifying each of this features. For example, in our unified file we want to have for each product: 
 
-| Type | quantity | size | owner |
-| A12 | 500Kg | 100x10x2 | Company A |
+| Type | quantity | size     | owner     |
+
+| A12  | 500Kg    | 100x10x2 | Company A |
 
 in one of the excell files from a random providers, we could have a line like this:
 
-| Type | description | quantity | product ID |
-| A12 | length: 100m, width: 50m, second hand | 500 units | ID: 1121 |
+| Type | description                           | quantity  | product ID |
+
+| A12  | length: 100m, width: 50m, second hand | 500 units | ID: 1121   |
   
 The project reads this line uses regex or other ways of feature extraction and normalizes the data intoa unified data. 
 
@@ -44,10 +46,11 @@ I then prepared the data for training. I concatenated all the dataframes into on
 
 These are the metrics of the evaluation of the model (not deterministic):
 
-       eval_loss  eval_Accuracy   eval_F1  eval_Precision  eval_Recall
-train   0.679016       0.734959  0.714131        0.883501     0.734953
-val     0.741721       0.712895  0.681331        0.786165     0.714636
-test    0.738569       0.722628  0.685436        0.766949     0.720938
+       | eval_loss |  eval_Accuracy |   eval_F1 |  eval_Precision |  eval_Recall | 
+----------------------------------------------------------------------------------
+train  |  0.679016 |       0.734959 |  0.714131 |        0.883501 |     0.734953 | 
+val    |  0.741721 |       0.712895 |  0.681331 |        0.786165 |     0.714636 | 
+test   |  0.738569 |       0.722628 |  0.685436 |        0.766949 |     0.720938 | 
 
 and the prediction result:
 ungebeizt, nicht geglüht -> [{'label': 'Finish', 'score': 0.9299754500389099}]
