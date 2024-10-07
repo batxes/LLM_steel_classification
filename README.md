@@ -33,8 +33,10 @@ The data are 3 excell files from 3 real companies.
 ## Instructions on how to test the model.
 1) python scripts/predict.py
 
-## The standardized dataset in CSV format.
-resources/union.tsv
+## About the project.
+I used the BERT model in this LLM project.
+The model is evaluated with different evaluation metrics.
+The prediction.py script contain examples to be predicted.
 
 ## Report summarizing the approach and results.
 
@@ -62,6 +64,11 @@ and the prediction result:
 `ungebeizt, nicht geglüht -> [{'label': 'Finish', 'score': 0.9299754500389099}]`
 
 `C100S -> [{'label': 'Grade', 'score': 0.9502202272415161}]`
+
+
+## The standardized dataset in CSV format.
+resources/union.tsv
+
 
 ## Plan for the future expansion of the algorithm and the potential most difficult challenges.
 
